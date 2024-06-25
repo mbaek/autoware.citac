@@ -1,0 +1,2 @@
+#!/usr/bin/env bash
+sudo ptp4l -m -S -i enp46s0
