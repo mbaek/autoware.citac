@@ -88,9 +88,9 @@ repositories:
     version: v0.6.0_t4-ros
   # launcher
   # launcher/autoware_launch:
-  #  type: git
-  #  url: https://github.com/autowarefoundation/autoware_launch.git
-  #  version: main
+  #   type: git
+  #   url: https://github.com/autowarefoundation/autoware_launch.git
+  #   version: main
   launcher/autoware_launch.citac: # added on 7/11/24 (Minjin)
     type: git
     url: https://github.com/knu-citac/autoware_launch.citac.git
