@@ -112,6 +112,10 @@ repositories:
     type: git
     url: https://github.com/tier4/nebula.git
     version: main
+  sensor_component/external/ouster-ros:
+    type: git
+    url: https://github.com/knu-citac/ouster-ros.git
+    version: ros2
   sensor_component/external/transport_drivers:
     type: git
     url: https://github.com/MapIV/transport_drivers.git
