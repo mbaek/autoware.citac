@@ -116,10 +116,10 @@ repositories:
     type: git
     url: https://github.com/knu-citac/ouster-ros.git
     version: ros2
-  sensor_component/external/transport_drivers:
-    type: git
-    url: https://github.com/MapIV/transport_drivers.git
-    version: boost
+  # sensor_component/external/transport_drivers:
+  #   type: git
+  #   url: https://github.com/MapIV/transport_drivers.git
+  #   version: boost
   # Fork of transport_drivers that enables reduction of copy operations
   # sensor_component/transport_drivers:
   #   type: git
