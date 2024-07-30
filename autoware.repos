@@ -96,9 +96,13 @@ repositories:
     url: https://github.com/knu-citac/autoware_launch.citac.git
     version: main
   # sensor_component
-  sensor_component/external/sensor_component_description:
+  # sensor_component/external/sensor_component_description:
+  #   type: git
+  #   url: https://github.com/tier4/sensor_component_description.git
+  #   version: main
+  sensor_component/external/sensor_component_description: # added on 7/30/24 (Minjin)
     type: git
-    url: https://github.com/tier4/sensor_component_description.git
+    url: https://github.com/knu-citac/sensor_component_description.git
     version: main
   sensor_component/external/tamagawa_imu_driver:
     type: git
