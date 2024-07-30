@@ -112,7 +112,7 @@ repositories:
     type: git
     url: https://github.com/tier4/nebula.git
     version: main
-  sensor_component/external/ouster-ros:
+  sensor_component/external/ouster-ros: # added on 7/30/24 (Minjin)
     type: git
     url: https://github.com/knu-citac/ouster-ros.git
     version: ros2
