@@ -152,10 +152,10 @@ repositories:
     url: https://github.com/autowarefoundation/single_lidar_sensor_kit_launch.git
     version: main
   # vehicle
-  # vehicle/sample_vehicle_launch:
-  #   type: git
-  #   url: https://github.com/autowarefoundation/sample_vehicle_launch.git
-  #   version: main
+  vehicle/sample_vehicle_launch:
+    type: git
+    url: https://github.com/autowarefoundation/sample_vehicle_launch.git
+    version: main
   vehicle/citac_vehicle_launch: # added on 7/11/24 (Minjin)
     type: git
     url: https://github.com/knu-citac/citac_vehicle_launch.git
